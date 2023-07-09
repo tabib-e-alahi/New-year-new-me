@@ -1,0 +1,37 @@
+.header-container-class {
+  background-image: url("../images/banner/banner3.png");
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  background-repeat: no-repeat;
+}
+
+.header-title {
+  margin: 216px 230px 24px 825px;
+  text-align: right;
+  color: #fff;
+  font-size: 65px;
+  font-weight: 700;
+}
+
+.header-description {
+  text-align: right;
+  margin-left: 856px;
+  margin-right: 230px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.header-btn {
+  margin: 32px 230px 190px 1120px;
+  padding: 20px 25px 20px 25px;
+  color: #005fac;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 5px;
+  background: #fff;
+  border: 0px;
+}
+

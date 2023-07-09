@@ -1,0 +1,43 @@
+.failure-container-class {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.failure-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  width: 288px;
+  margin-top: 370px;
+  margin-bottom: 24px;
+}
+
+.failure-img {
+    width: 501px;
+    height: 650px;
+  margin-top: 110px;
+  margin-left: 180px;
+}
+
+.failure-description {
+  width: 416px;
+  margin-right: 300px;
+  margin-bottom: 16px;
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.list-class{
+    margin-bottom: 8px;
+}
+ul{
+    list-style: none;
+}
+
+.last-list{
+    margin-bottom: 214px;
+}
+.my-font-class{
+    color: green;
+}

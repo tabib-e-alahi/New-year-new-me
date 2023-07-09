@@ -1,0 +1,41 @@
+.my-plans-title {
+  color: #151414;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 55px;
+}
+
+.plans-container-class {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: 0px auto;
+  margin-bottom: 135px;
+}
+
+.plans-items-class {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.plans-items-class > img {
+  margin-bottom: 24px;
+}
+
+.plans-items-class > h1 {
+  margin-bottom: 16px;
+  color: #151414;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.plans-items-class > p {
+  color: #737272;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+}

@@ -1,0 +1,31 @@
+.mindset-container-class {
+  background-image: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),url("../images/watch.png");
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  /* background: ; */
+  width: 70%;
+  margin: 0px auto;
+  padding-top: 59px;
+  padding-left: 64px;
+  padding-bottom: 59px;
+  margin-bottom: 130px;
+}
+
+.mindset-container-class > h1 {
+  margin-bottom: 24px;
+  width: 459px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.call-now {
+  color: #005fac;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 5px;
+  background: #fff;
+  padding: 20px 36px;
+  border: 0px;
+}

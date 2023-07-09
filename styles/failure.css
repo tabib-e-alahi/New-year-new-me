@@ -15,8 +15,9 @@
 .failure-img {
     width: 501px;
     height: 650px;
-  margin-top: 110px;
+  margin-top: 20px;
   margin-left: 180px;
+  
 }
 
 .failure-description {
@@ -36,7 +37,7 @@ ul{
 }
 
 .last-list{
-    margin-bottom: 214px;
+  margin-bottom: 254px;
 }
 .my-font-class{
     color: green;
